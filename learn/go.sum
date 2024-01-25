@@ -1,0 +1,6 @@
+github.com/Lofty-God/cryptit v0.1.0 h1:nSC/dKoZWP84vNk5udM90qJyCf2W+Jy4bTEcPlDaHRg=
+github.com/Lofty-God/cryptit v0.1.0/go.mod h1:ktCNvoWRFv6NTvnAFoOu3JF9fALhuMyJmn7xa0NYK2A=
+github.com/google/uuid v1.0.0 h1:b4Gk+7WdP/d3HZH8EJsZpvV7EtDOgaZLtnaNGIu1adA=
+github.com/google/uuid v1.0.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/pborman/uuid v1.2.1 h1:+ZZIw58t/ozdjRaXh/3awHfmWRbzYxJoAdNJxe/3pvw=
+github.com/pborman/uuid v1.2.1/go.mod h1:X/NO0urCmaxf9VXbdlT7C2Yzkj2IKimNn4k+gtPdI/k=
